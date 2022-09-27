@@ -220,22 +220,3 @@ book.reduce <- function(book, message) {
 ###############################################################################
 ###############################################################################
 
-# The following functions are the "extra" functions; marks for these functions
-# are only available if you have fully correct implementations for the 6
-# functions above
-
-book.extra1 <- function(book, size) {
-  # See handout for instructions
-}
-
-book.extra2 <- function(book, size) {
-  # See handout for instructions
-}
-
-book.extra3 <- function(book) {
-  # See handout for instructions
-}
-
-book.extra4 <- function(book, k) {
-  # See handout for instructions
-}
